@@ -16,7 +16,7 @@ Gitin tärkeimpiin ominaisuuksiin kuuluvat:
 
 Gitin perustoiminnot alkavat paikallisella asennuksella, jonka jälkeen voit alustaa repositorion komennolla `git init`. Muutoksia hallitaan yksinkertaisilla komennoilla, kuten `git add` ja `git commit`. Näiden avulla projektin kehitys etenee loogisesti ja organisoidusti.
 
-![Uusi kuva](./img2.png)
+![kuva2](./img2.png)
 
 ## GitHub: yhteistyön ytimessä
 
