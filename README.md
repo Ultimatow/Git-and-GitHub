@@ -1,6 +1,6 @@
 # Git ja GitHub: Ohjelmistokehityksen kulmakivet
 
-![Uusi kuva](/img1.png)
+<img src="./img1.jpg" width="300">
 
 Git on versiohallintajärjestelmä, joka tarjoaa luotettavan ja tehokkaan tavan hallita projekteja ja seurata niiden kehittymistä. Sen avulla voit hallita koodimuutoksia, työskennellä samanaikaisesti useiden versioiden kanssa ja palata projektin aikaisempiin tiloihin tarvittaessa. Git toimii ensisijaisesti paikallisena työkaluna, mutta sen avulla voit synkronoida työsi etäpalvelimille ja tehdä yhteistyötä globaalisti.
 
@@ -16,6 +16,8 @@ Gitin tärkeimpiin ominaisuuksiin kuuluvat:
 
 Gitin perustoiminnot alkavat paikallisella asennuksella, jonka jälkeen voit alustaa repositorion komennolla `git init`. Muutoksia hallitaan yksinkertaisilla komennoilla, kuten `git add` ja `git commit`. Näiden avulla projektin kehitys etenee loogisesti ja organisoidusti.
 
+![Uusi kuva](./img2.png)
+
 ## GitHub: yhteistyön ytimessä
 
 GitHub ei pelkästään tue versionhallintaa, vaan laajentaa sen toimintoja tuomalla mukaan tehokkaita yhteistyötyökaluja. Alustan avulla:
@@ -25,6 +27,8 @@ GitHub ei pelkästään tue versionhallintaa, vaan laajentaa sen toimintoja tuom
 - **Automaatio:** GitHub Actions tarjoaa kehittyneitä työkaluja, kuten automaattisten testien suorittamisen ja CI/CD-pipelinejen hallinnan.
 
 GitHub on erinomainen alusta sekä aloittelijoille että kokeneille kehittäjille, sillä sen graafinen käyttöliittymä ja kattava dokumentaatio tekevät käytön helpoksi.
+
+![Uusi kuva](https://docs.getdbt.com/img/docs/dbt-cloud/cloud-ide/git-overview.png)
 
 ## Käyttöopas: Git ja GitHub yhdessä
 
