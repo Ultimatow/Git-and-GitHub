@@ -1,6 +1,6 @@
 # Git ja GitHub: Ohjelmistokehityksen kulmakivet
 
-<img src="./img1.png" width="300">
+<img src="./img1.png" width="1000">
 
 Git on versiohallintajärjestelmä, joka tarjoaa luotettavan ja tehokkaan tavan hallita projekteja ja seurata niiden kehittymistä. Sen avulla voit hallita koodimuutoksia, työskennellä samanaikaisesti useiden versioiden kanssa ja palata projektin aikaisempiin tiloihin tarvittaessa. Git toimii ensisijaisesti paikallisena työkaluna, mutta sen avulla voit synkronoida työsi etäpalvelimille ja tehdä yhteistyötä globaalisti.
 
