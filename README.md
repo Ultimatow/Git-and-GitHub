@@ -28,7 +28,7 @@ GitHub ei pelkästään tue versionhallintaa, vaan laajentaa sen toimintoja tuom
 
 GitHub on erinomainen alusta sekä aloittelijoille että kokeneille kehittäjille, sillä sen graafinen käyttöliittymä ja kattava dokumentaatio tekevät käytön helpoksi.
 
-![Uusi kuva](https://docs.getdbt.com/img/docs/dbt-cloud/cloud-ide/git-overview.png)
+![kuva3](https://docs.getdbt.com/img/docs/dbt-cloud/cloud-ide/git-overview.png)
 
 ## Käyttöopas: Git ja GitHub yhdessä
 
